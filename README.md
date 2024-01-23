@@ -2,4 +2,4 @@
 
 ## Below you can find WebGL Projects
 
-<a ref="https://github.com/bakebran/bakebran.github.io/blob/main/Brandon_Baker_IC1/index.html">Triangle</a>
+<a ref="https://bakebran.github.io/Brandon_Baker_IC1/index.html">Triangle</a>
