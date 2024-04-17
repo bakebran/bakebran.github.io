@@ -11,4 +11,4 @@
 - [Sierpinski Extended-Rotate](https://bakebran.github.io/Brandon_Baker_HW2.2/gasket-extended.html)
 
 ## Unity Project
-- [Loot Raiders](https://bakebran.github.io/Downloads.loader.js)
+- [Loot Raiders](https://bakebran.github.io/lootraiders.html)
